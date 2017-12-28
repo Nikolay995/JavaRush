@@ -20,21 +20,9 @@ public class Solution {
         } else if (3.0 <= OneCicle && OneCicle < 4.0) {
             text = "желтый";
         } else text = "красный";
-        // выводим текст
+        //  выводим текст
         System.out.println(text);
 
 
-
-       /* System.out.println("Введи минуты: ");
-        float time = Float.parseFloat(reader.readLine());
-
-        float t = ((time)%60)%5;
-
-       if (t<3 && t>=0){
-           System.out.println("зелёный");
-       } else if (t<4 && t>=3){
-           System.out.println("жёлтый");
-       }else { System.out.println("красный");}
-        */
     }
 }
