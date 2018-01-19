@@ -8,13 +8,20 @@ import java.util.ArrayList;
 */
 
 public class Solution {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        try {
-            String name = reader.readLine();
-        } catch (IOException e) {
-            e.printStackTrace();
+        BufferedWriter bufWriter = new BufferedWriter(new FileWriter(reader.readLine()));
+        while (true) {
+            String data = reader.readLine();
+            if (("exit").equals(data)) {
+                bufWriter.write(data + "\r\n");
+                break;
+            }
+            bufWriter.write(data + "\r\n");
         }
-        ArrayList<String> list = new ArrayList<>();
 
-    }}
+        bufWriter.close();
+    }
+}
+
+

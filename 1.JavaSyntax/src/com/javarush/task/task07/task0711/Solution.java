@@ -3,6 +3,8 @@ package com.javarush.task.task07.task0711;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 /* 
 Удалить и вставить
@@ -10,17 +12,21 @@ import java.util.ArrayList;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-        ArrayList<String> list = new ArrayList<>();
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        for (int i = 0; i < 5; i++) {
-            list.add(reader.readLine());
+       ArrayList<String> strings = new ArrayList<>();
+        Scanner sc = new Scanner(System.in);
+        for (int i = 0; i <5 ; i++) {
+            strings.add(sc.nextLine());
         }
-        for (int i = 0; i <13 ; i++) {
-            list.add(0,list.get(4));
+        for (int j = 0; j <13 ; j++) {
+            String last = strings.get(4);
+            strings.remove(strings.size()-1);
+            strings.add(0, last);
         }
-        for (int i = 0; i <list.size() ; i++) {
-            System.out.println(list.get(i));
+        for (String a : strings){
+            System.out.println(a);
+        }
 
-        }
+        
+        
     }
 }

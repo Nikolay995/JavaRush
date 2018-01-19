@@ -3,6 +3,7 @@ package com.javarush.task.task07.task0717;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /* 
 Удваиваем слова
@@ -10,22 +11,26 @@ import java.util.ArrayList;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-        ArrayList<String> list = new ArrayList<>();
+        // Считать строки с консоли и объявить ArrayList list тут
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        for (int i = 0; i < 10; i++) {
+        ArrayList<String> list = new ArrayList<>();
+        for(int i = 0;i<10;i++){
             list.add(reader.readLine());
         }
 
-
-        // Считать строки с консоли и объявить ArrayList list тут
-
         ArrayList<String> result = doubleValues(list);
-
+        for (String s : result){
+            System.out.println(s);
+        }
         // Вывести на экран result
     }
 
     public static ArrayList<String> doubleValues(ArrayList<String> list) {
         //напишите тут ваш код
-        return null;
+        for(int b = 0;b<list.size();b=b+2){
+
+            list.add(b+1,list.get(b));
+        }
+        return list;
     }
 }
