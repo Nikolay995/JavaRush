@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c40e68c-7a4d-4984-a9b9-bfc9dfb1b4f2" name="Default" comment="">
+    <list default="true" id="5e2f2158-d42e-451f-8082-5162acc91a62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/User01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/strik.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,81 +24,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>input</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1520/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1521/Tree.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1521/SubSolution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1523/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1523/SubSolution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1528/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0308/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0314/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task11/task1110/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0711/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0712/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0715/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0719/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0717/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0725/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0722/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0723/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0827/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1019/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0728/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1020/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0716/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0720/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0828/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0820/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1018/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1608/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1609/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1610/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1605/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1612/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1613/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1616/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1617/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1618/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1619/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1620/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1614/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1703/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1701/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1319/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1320/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1321/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1322/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1323/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1324/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1325/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1326/Solution.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1327/RepkaStory.java" />
-        <option value="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1327/Person.java" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -97,37 +36,26 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaRush" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRush" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,65 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1319.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task13.task1319.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1617.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task16.task1617.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1618.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task16.task1618.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1619.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task16.task1619.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1614.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task16.task1614.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -241,109 +111,54 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0c40e68c-7a4d-4984-a9b9-bfc9dfb1b4f2" name="Default" comment="" />
-      <created>1514488940713</created>
+      <changelist id="5e2f2158-d42e-451f-8082-5162acc91a62" name="Default" comment="" />
+      <created>1528720565125</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1514488940713</updated>
-      <workItem from="1528649156315" duration="87000" />
+      <updated>1528720565125</updated>
+      <workItem from="1528720569923" duration="49000" />
     </task>
-    <task id="LOCAL-00001" summary="test commit">
-      <created>1514489835016</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1514489835016</updated>
-    </task>
-    <task id="LOCAL-00002" summary="13_level">
-      <created>1514628787636</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1514628787636</updated>
-    </task>
-    <task id="LOCAL-00003" summary="15_level">
-      <created>1515357016410</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1515357016410</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87000" />
+    <option name="totallyTimeSpent" value="49000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293718" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Persistence" side_tool="true" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293718" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,76 +167,20 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test commit" />
-    <MESSAGE value="13_level" />
-    <MESSAGE value="15_level" />
-    <option name="LAST_COMMIT_MESSAGE" value="15_level" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="3" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1613/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1613/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1615/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1615/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1515/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1616/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1616/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1617/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1617/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1618/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1618/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1619/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1619/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1620/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1620/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1614/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1614/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1701/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1703/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1319/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1701/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1703/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1319/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1320/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1320/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1321/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1321/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1322/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1322/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1323/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1323/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1324/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1324/Solution.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Компиляция" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1325/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1325/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1326/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1326/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1327/RepkaItem.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1327/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1327/RepkaStory.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1327/Solution.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1327/Person.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1328/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1328/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1328/AbstractRobot.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1328/Attackable.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1328/BodyPart.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1328/Defensable.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1328/Robot.java" />
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -5425,3 +5425,21 @@ java.lang.Exception
 2018-01-19 20:20:44 INFO  ApacheHttpClient.getTask(405) - responseCode = 200
 2018-01-19 20:21:17 INFO  ApacheHttpClient.sendEvent(450) - responseCode = 200
 2018-01-19 20:22:17 INFO  ApacheHttpClient.sendEvent(450) - responseCode = 200
+2018-06-11 15:36:06 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-06-11 15:36:06 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.18 ----------
+
+2018-06-11 15:36:06 INFO  JavaRushTasksProjectComponent.setAutoscrolls(343) - Autoscrolls успешно установлены
+2018-06-11 15:36:07 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-06-11 15:36:07 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-06-11 15:36:07 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-11 15:36:07 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-11 15:36:08 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-06-11 15:36:08 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-06-11 15:36:08 INFO  ApacheHttpClient.login(260) - JSESSIONID=B66ED3BE074C2C77834BE257C08CC2FE
+2018-06-11 15:36:08 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-06-11 15:36:08 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-06-11 15:36:08 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-06-11 15:36:08 WARN  JavaRushUtil.isProjectStructureCorrect(344) - Структура проекта невалидная.
+2018-06-11 15:36:25 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-11 15:36:25 WARN  JavaRushUtil.isProjectStructureCorrect(344) - Структура проекта невалидная.
+2018-06-11 15:36:54 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
