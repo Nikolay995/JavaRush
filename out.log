@@ -5443,3 +5443,24 @@ java.lang.Exception
 2018-06-11 15:36:25 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
 2018-06-11 15:36:25 WARN  JavaRushUtil.isProjectStructureCorrect(344) - Структура проекта невалидная.
 2018-06-11 15:36:54 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-11 19:58:06 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-06-11 19:58:06 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.18 ----------
+
+2018-06-11 19:58:07 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-06-11 19:58:07 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-06-11 19:58:07 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-06-11 19:58:07 WARN  JavaRushUtil.isProjectStructureCorrect(344) - Структура проекта невалидная.
+2018-06-11 19:58:16 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-11 19:58:16 WARN  JavaRushUtil.isProjectStructureCorrect(344) - Структура проекта невалидная.
+2018-06-11 19:58:47 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-11 19:58:55 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-06-11 19:58:55 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-06-11 19:58:55 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.18 ----------
+
+2018-06-11 19:58:55 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-06-11 19:58:55 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-06-11 19:58:55 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-06-11 19:58:55 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-06-11 19:59:04 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-11 19:59:04 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
