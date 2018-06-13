@@ -21,7 +21,7 @@ public class Solution {
         Object getAllowedAction();
     }
 
-    public static class Clothes implements Movable,Sellable, Discountable {
+    public static class Clothes implements Movable,Sellable,Discountable{
         @Override
         public boolean isMovable() {
             return false;
