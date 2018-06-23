@@ -1937,3 +1937,17 @@ java.lang.Throwable: Stub index points to a file without PSI: com.intellij.opena
 2018-06-23 22:07:51 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
 2018-06-23 22:07:51 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
 2018-06-23 22:07:51 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-06-23 22:08:51 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-23 22:09:39 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-23 22:09:39 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-23 22:09:44 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-23 22:09:44 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-23 22:09:44 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-23 22:09:44 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-23 22:09:44 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-23 22:09:45 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-23 22:09:51 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-23 22:10:11 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-06-23 22:10:11 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-23 22:10:11 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
