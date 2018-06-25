@@ -101,3 +101,474 @@ java.lang.Throwable: Stub index points to a file without PSI: com.intellij.opena
 2018-06-24 11:55:24 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
 2018-06-24 11:55:24 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
 2018-06-24 11:55:24 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: CheckinProject
+2018-06-24 11:55:38 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:55:38 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-24 11:55:50 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:55:50 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-24 11:55:56 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-24 11:55:58 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-24 11:56:05 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-24 11:56:05 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-24 11:56:05 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-24 11:56:06 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-24 11:56:06 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-24 11:56:06 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:56:56 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-24 11:57:56 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-24 11:58:56 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-24 11:58:59 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:58:59 WARN  JavaRushUtil.getCurrentTask(66) - Ошибка получения ключа задачи.
+2018-06-24 11:58:59 WARN  JavaRushUtil.getCurrentDirectory(97) - Ошибка получения текущей директории.
+2018-06-24 11:58:59 ERROR StyleCheckButton.actionPerformed(84) - Ошибка при проверке стиля кода.
+2018-06-24 11:59:02 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:59:02 WARN  JavaRushUtil.getCurrentTask(66) - Ошибка получения ключа задачи.
+2018-06-24 11:59:02 WARN  ForumButton.isTaskSelected(20) - Не выбрана задача!
+2018-06-24 11:59:08 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:59:08 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-24 11:59:09 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-24 11:59:09 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-24 11:59:09 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-24 11:59:09 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-24 11:59:09 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-24 11:59:09 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:59:11 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-24 11:59:11 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-24 11:59:16 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-06-25 10:03:11 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-06-25 10:03:11 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.18 ----------
+
+2018-06-25 10:03:11 INFO  JavaRushTasksProjectComponent.setAutoscrolls(343) - Autoscrolls успешно установлены
+2018-06-25 10:03:13 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-06-25 10:03:13 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-06-25 10:03:14 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 10:03:14 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 10:03:14 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-06-25 10:03:14 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-06-25 10:03:14 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-06-25 10:03:14 INFO  ApacheHttpClient.login(260) - JSESSIONID=A75B923E8C1BCCAAF98BB513957A149E
+2018-06-25 10:03:14 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-06-25 10:03:14 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-06-25 10:03:14 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-06-25 10:03:14 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-06-25 10:28:18 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:28:18 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-25 10:28:20 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-25 10:28:24 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:28:24 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-25 10:28:29 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-25 10:28:31 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 10:28:31 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 10:28:31 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 10:28:31 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 10:28:38 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:29:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:30:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.error(118) - Stub index points to a file without PSI: com.intellij.openapi.fileTypes.UnknownFileType@7b8858b2, used scope com.intellij.psi.impl.search.JavaSourceFilterScope[com.intellij.psi.search.EverythingGlobalScope@22c0]
+java.lang.Throwable: Stub index points to a file without PSI: com.intellij.openapi.fileTypes.UnknownFileType@7b8858b2, used scope com.intellij.psi.impl.search.JavaSourceFilterScope[com.intellij.psi.search.EverythingGlobalScope@22c0]
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:123)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.processStubsInFile(StubProcessingHelperBase.java:51)
+	at com.intellij.psi.stubs.StubIndexImpl$2.process(StubIndexImpl.java:319)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:640)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:628)
+	at com.intellij.util.indexing.ValueContainer.forEach(ValueContainer.java:61)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:348)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:145)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:134)
+	at com.intellij.psi.impl.java.stubs.index.JavaFullClassNameIndex.get(JavaFullClassNameIndex.java:47)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.doFindClasses(JavaFileManagerImpl.java:96)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.findClasses(JavaFileManagerImpl.java:83)
+	at com.intellij.psi.impl.PsiElementFinderImpl.findClasses(PsiElementFinderImpl.java:45)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithoutJvmFacade(JavaPsiFacadeImpl.java:195)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithJvmFacade(JavaPsiFacadeImpl.java:166)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClasses(JavaPsiFacadeImpl.java:158)
+	at com.intellij.psi.impl.file.PsiPackageImpl.getCachedClassesByName(PsiPackageImpl.java:213)
+	at com.intellij.psi.impl.file.PsiPackageImpl.findClassByShortName(PsiPackageImpl.java:275)
+	at com.intellij.psi.impl.file.PsiPackageImpl.processDeclarations(PsiPackageImpl.java:309)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processPackageDeclarations(PsiJavaFileBaseImpl.java:438)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processDeclarationsNoGuess(PsiJavaFileBaseImpl.java:354)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processDeclarations(PsiJavaFileBaseImpl.java:312)
+	at com.intellij.psi.scope.util.PsiScopesUtil.treeWalkUp(PsiScopesUtil.java:69)
+	at com.intellij.psi.scope.util.PsiScopesUtil.treeWalkUp(PsiScopesUtil.java:51)
+	at com.intellij.psi.scope.util.PsiScopesUtil.resolveAndWalk(PsiScopesUtil.java:218)
+	at com.intellij.psi.scope.util.PsiScopesUtil.resolveAndWalk(PsiScopesUtil.java:149)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.resolve(PsiJavaCodeReferenceElementImpl.java:492)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.access$100(PsiJavaCodeReferenceElementImpl.java:47)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl$OurGenericsResolver.resolve(PsiJavaCodeReferenceElementImpl.java:373)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl$OurGenericsResolver.resolve(PsiJavaCodeReferenceElementImpl.java:365)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.lambda$resolveWithCaching$1(ResolveCache.java:205)
+	at com.intellij.openapi.util.RecursionManager$2.doPreventingRecursion(RecursionManager.java:112)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.resolveWithCaching(ResolveCache.java:204)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:724)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:715)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.multiResolve(PsiJavaCodeReferenceElementImpl.java:424)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.advancedResolve(PsiJavaCodeReferenceElementImpl.java:417)
+	at com.intellij.psi.impl.source.PsiClassReferenceType.resolveGenerics(PsiClassReferenceType.java:191)
+	at com.intellij.psi.util.PsiUtil.captureToplevelWildcards(PsiUtil.java:762)
+	at com.intellij.psi.impl.PsiImplUtil.normalizeWildcardTypeByPosition(PsiImplUtil.java:370)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$TypeEvaluator.fun(PsiReferenceExpressionImpl.java:423)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$TypeEvaluator.fun(PsiReferenceExpressionImpl.java:368)
+	at com.intellij.psi.impl.source.resolve.JavaResolveCache.getType(JavaResolveCache.java:94)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.getType(PsiReferenceExpressionImpl.java:435)
+	at com.intellij.psi.scope.util.PsiScopesUtil.setupAndRunProcessor(PsiScopesUtil.java:317)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.resolveToMethod(PsiReferenceExpressionImpl.java:306)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.resolve(PsiReferenceExpressionImpl.java:284)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.access$000(PsiReferenceExpressionImpl.java:47)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$OurGenericsResolver.resolve(PsiReferenceExpressionImpl.java:189)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$OurGenericsResolver.resolve(PsiReferenceExpressionImpl.java:178)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.lambda$resolveWithCaching$1(ResolveCache.java:205)
+	at com.intellij.openapi.util.RecursionManager$2.doPreventingRecursion(RecursionManager.java:112)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.resolveWithCaching(ResolveCache.java:204)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:724)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:715)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.multiResolve(PsiReferenceExpressionImpl.java:352)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.advancedResolve(PsiReferenceExpressionImpl.java:524)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.isReferenceTo(PsiReferenceExpressionImpl.java:460)
+	at com.intellij.psi.search.SingleTargetRequestResultProcessor.processTextOccurrence(SingleTargetRequestResultProcessor.java:52)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$3.lambda$execute$0(PsiSearchHelperImpl.java:763)
+	at com.intellij.psi.impl.search.LowLevelSearchUtil.processTreeUp(LowLevelSearchUtil.java:139)
+	at com.intellij.psi.impl.search.LowLevelSearchUtil.processElementsAtOffsets(LowLevelSearchUtil.java:226)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$3.execute(PsiSearchHelperImpl.java:759)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$2.processInReadAction(PsiSearchHelperImpl.java:248)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$2.processInReadAction(PsiSearchHelperImpl.java:239)
+	at com.intellij.openapi.application.ReadActionProcessor.lambda$process$0(ReadActionProcessor.java:28)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:927)
+	at com.intellij.openapi.application.ReadAction.compute(ReadAction.java:47)
+	at com.intellij.openapi.application.ReadActionProcessor.process(ReadActionProcessor.java:28)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processCandidates$13(PsiSearchHelperImpl.java:719)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processVirtualFile$5(PsiSearchHelperImpl.java:423)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1129)
+	at com.intellij.openapi.application.ex.ApplicationUtil.tryRunReadAction(ApplicationUtil.java:43)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.processVirtualFile(PsiSearchHelperImpl.java:407)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processPsiFileRoots$2(PsiSearchHelperImpl.java:321)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processFilesConcurrentlyDespiteWriteActions$3(PsiSearchHelperImpl.java:354)
+	at com.intellij.concurrency.ApplierCompleter.execAndForkSubTasks(ApplierCompleter.java:133)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.concurrency.ApplierCompleter.wrapInReadActionAndIndicator(ApplierCompleter.java:116)
+	at com.intellij.concurrency.ApplierCompleter.lambda$compute$0(ApplierCompleter.java:96)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.concurrency.ApplierCompleter.compute(ApplierCompleter.java:96)
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.pollAndExecCC(ForkJoinPool.java:1190)
+	at java.util.concurrent.ForkJoinPool.helpComplete(ForkJoinPool.java:1879)
+	at java.util.concurrent.ForkJoinPool.awaitJoin(ForkJoinPool.java:2045)
+	at java.util.concurrent.ForkJoinTask.doJoin(ForkJoinTask.java:390)
+	at java.util.concurrent.ForkJoinTask.join(ForkJoinTask.java:719)
+	at java.util.concurrent.ForkJoinPool.invoke(ForkJoinPool.java:2616)
+	at com.intellij.concurrency.JobLauncherImpl.invokeConcurrentlyUnderProgress(JobLauncherImpl.java:65)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.processFilesConcurrentlyDespiteWriteActions(PsiSearchHelperImpl.java:377)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.processPsiFileRoots(PsiSearchHelperImpl.java:319)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.processCandidates(PsiSearchHelperImpl.java:714)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.processGlobalRequestsOptimized(PsiSearchHelperImpl.java:694)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.processRequests(PsiSearchHelperImpl.java:608)
+	at com.intellij.psi.search.SearchRequestQuery.processResults(SearchRequestQuery.java:45)
+	at com.intellij.util.AbstractQuery.forEach(AbstractQuery.java:80)
+	at com.intellij.util.MergeQuery.processSubQuery(MergeQuery.java:85)
+	at com.intellij.util.MergeQuery.forEach(MergeQuery.java:57)
+	at com.intellij.util.UniqueResultsQuery.process(UniqueResultsQuery.java:67)
+	at com.intellij.util.UniqueResultsQuery.forEach(UniqueResultsQuery.java:57)
+	at com.intellij.find.findUsages.JavaFindUsagesHelper.addElementUsages(JavaFindUsagesHelper.java:490)
+	at com.intellij.find.findUsages.JavaFindUsagesHelper.processElementUsages(JavaFindUsagesHelper.java:132)
+	at com.intellij.codeInsight.daemon.impl.UnusedSymbolUtil.processUsages(UnusedSymbolUtil.java:271)
+	at com.intellij.codeInspection.unusedReturnValue.UnusedReturnValueLocalInspection.checkMethod(UnusedReturnValueLocalInspection.java:58)
+	at com.intellij.codeInspection.AbstractBaseJavaLocalInspectionTool$1.visitMethod(AbstractBaseJavaLocalInspectionTool.java:55)
+	at com.intellij.psi.impl.source.PsiMethodImpl.accept(PsiMethodImpl.java:290)
+	at com.intellij.codeInspection.InspectionEngine.acceptElements(InspectionEngine.java:75)
+	at com.intellij.codeInspection.InspectionEngine.createVisitorAndAcceptElements(InspectionEngine.java:63)
+	at com.intellij.codeInsight.daemon.impl.LocalInspectionsPass.runToolOnElements(LocalInspectionsPass.java:278)
+	at com.intellij.codeInsight.daemon.impl.LocalInspectionsPass.lambda$visitPriorityElementsAndInit$3(LocalInspectionsPass.java:246)
+	at com.intellij.concurrency.ApplierCompleter.execAndForkSubTasks(ApplierCompleter.java:133)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.concurrency.ApplierCompleter.lambda$wrapInReadActionAndIndicator$1(ApplierCompleter.java:105)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.concurrency.ApplierCompleter.wrapInReadActionAndIndicator(ApplierCompleter.java:116)
+	at com.intellij.concurrency.ApplierCompleter.lambda$compute$0(ApplierCompleter.java:96)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.concurrency.ApplierCompleter.compute(ApplierCompleter.java:96)
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.error(118) - Stub index points to a file without PSI: com.intellij.openapi.fileTypes.UnknownFileType@7b8858b2, used scope com.intellij.psi.impl.search.JavaSourceFilterScope[com.intellij.psi.search.EverythingGlobalScope@22c1]
+java.lang.Throwable: Stub index points to a file without PSI: com.intellij.openapi.fileTypes.UnknownFileType@7b8858b2, used scope com.intellij.psi.impl.search.JavaSourceFilterScope[com.intellij.psi.search.EverythingGlobalScope@22c1]
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:123)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.processStubsInFile(StubProcessingHelperBase.java:51)
+	at com.intellij.psi.stubs.StubIndexImpl$2.process(StubIndexImpl.java:319)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:640)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:628)
+	at com.intellij.util.indexing.ValueContainer.forEach(ValueContainer.java:61)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:348)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:145)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:134)
+	at com.intellij.psi.impl.java.stubs.index.JavaFullClassNameIndex.get(JavaFullClassNameIndex.java:47)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.doFindClasses(JavaFileManagerImpl.java:96)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.findClasses(JavaFileManagerImpl.java:83)
+	at com.intellij.psi.impl.PsiElementFinderImpl.findClasses(PsiElementFinderImpl.java:45)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithoutJvmFacade(JavaPsiFacadeImpl.java:195)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithJvmFacade(JavaPsiFacadeImpl.java:166)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClasses(JavaPsiFacadeImpl.java:158)
+	at com.intellij.psi.impl.file.PsiPackageImpl.getCachedClassesByName(PsiPackageImpl.java:213)
+	at com.intellij.psi.impl.file.PsiPackageImpl.findClassByShortName(PsiPackageImpl.java:275)
+	at com.intellij.psi.impl.file.PsiPackageImpl.processDeclarations(PsiPackageImpl.java:309)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processPackageDeclarations(PsiJavaFileBaseImpl.java:438)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processDeclarationsNoGuess(PsiJavaFileBaseImpl.java:354)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processDeclarations(PsiJavaFileBaseImpl.java:312)
+	at com.intellij.psi.scope.util.PsiScopesUtil.treeWalkUp(PsiScopesUtil.java:69)
+	at com.intellij.psi.scope.util.PsiScopesUtil.treeWalkUp(PsiScopesUtil.java:51)
+	at com.intellij.psi.scope.util.PsiScopesUtil.resolveAndWalk(PsiScopesUtil.java:218)
+	at com.intellij.psi.scope.util.PsiScopesUtil.resolveAndWalk(PsiScopesUtil.java:149)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.resolve(PsiJavaCodeReferenceElementImpl.java:492)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.access$100(PsiJavaCodeReferenceElementImpl.java:47)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl$OurGenericsResolver.resolve(PsiJavaCodeReferenceElementImpl.java:373)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl$OurGenericsResolver.resolve(PsiJavaCodeReferenceElementImpl.java:365)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.lambda$resolveWithCaching$1(ResolveCache.java:205)
+	at com.intellij.openapi.util.RecursionManager$2.doPreventingRecursion(RecursionManager.java:112)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.resolveWithCaching(ResolveCache.java:204)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:724)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:715)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.multiResolve(PsiJavaCodeReferenceElementImpl.java:424)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.advancedResolve(PsiJavaCodeReferenceElementImpl.java:417)
+	at com.intellij.psi.impl.source.PsiClassReferenceType.resolveGenerics(PsiClassReferenceType.java:191)
+	at com.intellij.psi.util.PsiUtil.captureToplevelWildcards(PsiUtil.java:762)
+	at com.intellij.psi.impl.PsiImplUtil.normalizeWildcardTypeByPosition(PsiImplUtil.java:370)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$TypeEvaluator.fun(PsiReferenceExpressionImpl.java:423)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$TypeEvaluator.fun(PsiReferenceExpressionImpl.java:368)
+	at com.intellij.psi.impl.source.resolve.JavaResolveCache.getType(JavaResolveCache.java:94)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.getType(PsiReferenceExpressionImpl.java:435)
+	at com.intellij.psi.scope.util.PsiScopesUtil.setupAndRunProcessor(PsiScopesUtil.java:317)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.resolveToMethod(PsiReferenceExpressionImpl.java:306)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.resolve(PsiReferenceExpressionImpl.java:284)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.access$000(PsiReferenceExpressionImpl.java:47)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$OurGenericsResolver.resolve(PsiReferenceExpressionImpl.java:189)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl$OurGenericsResolver.resolve(PsiReferenceExpressionImpl.java:178)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.lambda$resolveWithCaching$1(ResolveCache.java:205)
+	at com.intellij.openapi.util.RecursionManager$2.doPreventingRecursion(RecursionManager.java:112)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.resolveWithCaching(ResolveCache.java:204)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:724)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:715)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.multiResolve(PsiReferenceExpressionImpl.java:352)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.advancedResolve(PsiReferenceExpressionImpl.java:524)
+	at com.intellij.psi.impl.source.tree.java.PsiReferenceExpressionImpl.isReferenceTo(PsiReferenceExpressionImpl.java:460)
+	at com.intellij.psi.search.SingleTargetRequestResultProcessor.processTextOccurrence(SingleTargetRequestResultProcessor.java:52)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$3.lambda$execute$0(PsiSearchHelperImpl.java:763)
+	at com.intellij.psi.impl.search.LowLevelSearchUtil.processTreeUp(LowLevelSearchUtil.java:139)
+	at com.intellij.psi.impl.search.LowLevelSearchUtil.processElementsAtOffsets(LowLevelSearchUtil.java:226)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$3.execute(PsiSearchHelperImpl.java:759)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$2.processInReadAction(PsiSearchHelperImpl.java:248)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl$2.processInReadAction(PsiSearchHelperImpl.java:239)
+	at com.intellij.openapi.application.ReadActionProcessor.lambda$process$0(ReadActionProcessor.java:28)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:927)
+	at com.intellij.openapi.application.ReadAction.compute(ReadAction.java:47)
+	at com.intellij.openapi.application.ReadActionProcessor.process(ReadActionProcessor.java:28)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processCandidates$13(PsiSearchHelperImpl.java:719)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processVirtualFile$5(PsiSearchHelperImpl.java:423)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.openapi.application.ex.ApplicationUtil.tryRunReadAction(ApplicationUtil.java:43)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.processVirtualFile(PsiSearchHelperImpl.java:407)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processPsiFileRoots$2(PsiSearchHelperImpl.java:321)
+	at com.intellij.psi.impl.search.PsiSearchHelperImpl.lambda$processFilesConcurrentlyDespiteWriteActions$3(PsiSearchHelperImpl.java:354)
+	at com.intellij.concurrency.ApplierCompleter.execAndForkSubTasks(ApplierCompleter.java:133)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.concurrency.ApplierCompleter.wrapInReadActionAndIndicator(ApplierCompleter.java:116)
+	at com.intellij.concurrency.ApplierCompleter.lambda$compute$0(ApplierCompleter.java:96)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.concurrency.ApplierCompleter.compute(ApplierCompleter.java:96)
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(126) - IntelliJ IDEA 2018.1  Build #IU-181.4203.550
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(126) - IntelliJ IDEA 2018.1  Build #IU-181.4203.550
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(133) - JDK: 1.8.0_152-release
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(134) - VM: OpenJDK 64-Bit Server VM
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(133) - JDK: 1.8.0_152-release
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(134) - VM: OpenJDK 64-Bit Server VM
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: EditorDelete
+2018-06-25 10:31:01 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: EditorDelete
+2018-06-25 10:31:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:32:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:33:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:34:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:35:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:36:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:37:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:38:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:39:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:40:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:41:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:42:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:43:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:43:18 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:43:18 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 10:44:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:45:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:46:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:47:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:48:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:49:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:50:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:51:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:52:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:53:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:54:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:54:23 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:54:23 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:54:23 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 10:54:24 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 10:55:03 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:55:03 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 10:55:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:56:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:57:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:58:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:58:59 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:58:59 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 10:58:59 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:59:01 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 10:59:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 10:59:34 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:59:34 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 10:59:34 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 10:59:36 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:00:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:00:47 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:00:47 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:01:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:01:59 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:01:59 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:01:59 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:02:00 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:02:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:02:36 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:02:37 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:02:37 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:02:38 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:03:07 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:03:08 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:03:08 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:03:09 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:03:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:04:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:04:25 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:04:26 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:04:26 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:04:27 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:41:03 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:41:03 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-25 11:41:15 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-25 11:41:15 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 11:41:15 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 11:41:15 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 11:41:15 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 11:41:15 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:42:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:43:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:43:32 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:43:32 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:43:32 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:43:34 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:44:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:44:26 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:44:27 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:44:27 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:44:27 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:45:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:46:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:47:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:48:01 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:48:01 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:48:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:49:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:50:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:50:43 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:50:43 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:50:43 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:50:44 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:50:58 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:50:59 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:50:59 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:51:00 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 11:51:00 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 11:51:10 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:51:10 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-25 11:51:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:51:16 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-25 11:51:17 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 11:51:17 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 11:51:17 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 11:51:17 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 11:51:17 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 11:52:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:53:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:54:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:55:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:56:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:57:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:58:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 11:59:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:00:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 502
+2018-06-25 12:01:45 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 504
+2018-06-25 12:02:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:03:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:04:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:05:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:06:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:07:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:08:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:09:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:10:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:11:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:12:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:13:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:14:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:15:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:16:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:17:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:18:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:19:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:20:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:21:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:22:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:23:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:24:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:24:20 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 12:24:20 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 12:24:20 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 12:24:21 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-06-25 12:24:21 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-06-25 12:25:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:26:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:27:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:28:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:28:40 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 12:28:40 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-06-25 12:29:01 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-06-25 12:29:01 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 12:29:01 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 12:29:02 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-25 12:29:02 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-25 12:29:02 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-06-25 12:29:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:30:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:31:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:32:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:33:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-25 12:34:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
