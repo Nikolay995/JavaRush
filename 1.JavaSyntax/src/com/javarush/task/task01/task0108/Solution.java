@@ -11,9 +11,6 @@ public class Solution {
         String four = "четыре";
         String three = "3";
 
-        //System.out.print("два");
-        //System.out.print(" плюс ");
-        //System.out.print(s);
         System.out.print(b);
         System.out.print(" плюс ");
         //System.out.print("три");

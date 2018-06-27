@@ -572,3 +572,145 @@ java.lang.Throwable: Stub index points to a file without PSI: com.intellij.opena
 2018-06-25 12:32:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
 2018-06-25 12:33:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
 2018-06-25 12:34:15 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-06-27 18:43:58 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-06-27 18:43:58 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.19 ----------
+
+2018-06-27 18:43:59 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-06-27 18:43:59 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-06-27 18:43:59 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-06-27 18:43:59 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.error(118) - unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@a6c69e2, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+java.lang.Throwable: unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@a6c69e2, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:123)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.handleNonPsiStubs(StubProcessingHelperBase.java:107)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.processStubsInFile(StubProcessingHelperBase.java:58)
+	at com.intellij.psi.stubs.StubIndexImpl$2.process(StubIndexImpl.java:319)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:640)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:628)
+	at com.intellij.util.indexing.ValueContainer.forEach(ValueContainer.java:61)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:348)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:145)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:134)
+	at com.intellij.psi.impl.java.stubs.index.JavaFullClassNameIndex.get(JavaFullClassNameIndex.java:47)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.doFindClasses(JavaFileManagerImpl.java:96)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.findClasses(JavaFileManagerImpl.java:83)
+	at com.intellij.psi.impl.PsiElementFinderImpl.findClasses(PsiElementFinderImpl.java:45)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithoutJvmFacade(JavaPsiFacadeImpl.java:195)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithJvmFacade(JavaPsiFacadeImpl.java:166)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClasses(JavaPsiFacadeImpl.java:158)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightClassUtil.checkDuplicateTopLevelClass(HighlightClassUtil.java:173)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.visitClass(HighlightVisitorImpl.java:417)
+	at com.intellij.psi.impl.source.PsiClassImpl.accept(PsiClassImpl.java:470)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.visit(HighlightVisitorImpl.java:136)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.runVisitors(GeneralHighlightingPass.java:371)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$collectHighlights$5(GeneralHighlightingPass.java:303)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:330)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$analyzeByVisitors$6(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.lambda$analyze$2(HighlightVisitorImpl.java:161)
+	at com.intellij.codeInsight.daemon.impl.analysis.RefCountHolder.analyze(RefCountHolder.java:336)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.analyze(HighlightVisitorImpl.java:160)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$analyzeByVisitors$6(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.DefaultHighlightVisitor.analyze(DefaultHighlightVisitor.java:86)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.collectHighlights(GeneralHighlightingPass.java:300)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.collectInformationWithProgress(GeneralHighlightingPass.java:239)
+	at com.intellij.codeInsight.daemon.impl.ProgressableTextEditorHighlightingPass.doCollectInformation(ProgressableTextEditorHighlightingPass.java:83)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(126) - IntelliJ IDEA 2018.1  Build #IU-181.4203.550
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(133) - JDK: 1.8.0_152-release
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(134) - VM: OpenJDK 64-Bit Server VM
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: EditorBackSpace
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.error(118) - Stub index points to a file without PSI: com.intellij.openapi.fileTypes.UnknownFileType@344a8787, used scope com.intellij.psi.impl.search.JavaSourceFilterScope[Intersection: (Module with dependencies:1.JavaSyntax compile only:true include libraries:false include other modules:false include tests:true, Module with dependencies:1.JavaSyntax compile only:true include libraries:true include other modules:true include tests:false)]
+java.lang.Throwable: Stub index points to a file without PSI: com.intellij.openapi.fileTypes.UnknownFileType@344a8787, used scope com.intellij.psi.impl.search.JavaSourceFilterScope[Intersection: (Module with dependencies:1.JavaSyntax compile only:true include libraries:false include other modules:false include tests:true, Module with dependencies:1.JavaSyntax compile only:true include libraries:true include other modules:true include tests:false)]
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:123)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.processStubsInFile(StubProcessingHelperBase.java:51)
+	at com.intellij.psi.stubs.StubIndexImpl$2.process(StubIndexImpl.java:319)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:640)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:628)
+	at com.intellij.util.indexing.ValueContainer.forEach(ValueContainer.java:61)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:348)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:145)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:134)
+	at com.intellij.psi.impl.java.stubs.index.JavaFullClassNameIndex.get(JavaFullClassNameIndex.java:47)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.doFindClasses(JavaFileManagerImpl.java:96)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.findClasses(JavaFileManagerImpl.java:83)
+	at com.intellij.psi.impl.PsiElementFinderImpl.findClasses(PsiElementFinderImpl.java:45)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithoutJvmFacade(JavaPsiFacadeImpl.java:195)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithJvmFacade(JavaPsiFacadeImpl.java:166)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClasses(JavaPsiFacadeImpl.java:158)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightClassUtil.checkDuplicateTopLevelClass(HighlightClassUtil.java:173)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.visitClass(HighlightVisitorImpl.java:417)
+	at com.intellij.psi.impl.source.PsiClassImpl.accept(PsiClassImpl.java:470)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.visit(HighlightVisitorImpl.java:136)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.runVisitors(GeneralHighlightingPass.java:371)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$collectHighlights$5(GeneralHighlightingPass.java:303)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:330)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$analyzeByVisitors$6(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.lambda$analyze$2(HighlightVisitorImpl.java:161)
+	at com.intellij.codeInsight.daemon.impl.analysis.RefCountHolder.analyze(RefCountHolder.java:336)
+	at com.intellij.codeInsight.daemon.impl.analysis.HighlightVisitorImpl.analyze(HighlightVisitorImpl.java:160)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$analyzeByVisitors$6(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.DefaultHighlightVisitor.analyze(DefaultHighlightVisitor.java:86)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:333)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.collectHighlights(GeneralHighlightingPass.java:300)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.collectInformationWithProgress(GeneralHighlightingPass.java:239)
+	at com.intellij.codeInsight.daemon.impl.ProgressableTextEditorHighlightingPass.doCollectInformation(ProgressableTextEditorHighlightingPass.java:83)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(126) - IntelliJ IDEA 2018.1  Build #IU-181.4203.550
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(133) - JDK: 1.8.0_152-release
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(134) - VM: OpenJDK 64-Bit Server VM
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
+2018-06-27 18:44:35 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: EditorBackSpace
+2018-06-27 18:44:46 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-06-27 18:44:47 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-06-27 18:44:58 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-06-27 18:44:58 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-06-27 18:44:59 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-06-27 18:45:02 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-06-27 18:45:13 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-06-27 18:45:13 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-27 18:45:13 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-27 18:45:13 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-06-27 18:45:13 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-06-27 18:45:15 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-06-27 18:45:33 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-06-27 18:45:33 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
