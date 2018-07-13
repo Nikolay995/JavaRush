@@ -11595,3 +11595,211 @@ java.lang.Throwable: unable to get stub builder for com.intellij.openapi.fileTyp
 2018-07-01 11:30:14 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
 2018-07-01 11:31:14 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
 2018-07-01 11:32:14 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-01 11:33:00 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-01 11:33:00 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-01 11:33:14 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-01 11:33:22 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-01 11:33:23 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-13 16:59:38 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-07-13 16:59:38 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.19 ----------
+
+2018-07-13 16:59:38 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-07-13 16:59:38 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-07-13 16:59:38 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-13 16:59:38 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-13 16:59:39 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-13 16:59:39 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-13 16:59:39 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-13 16:59:39 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-13 16:59:39 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-07-13 16:59:39 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-07-13 16:59:39 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-07-13 16:59:39 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-07-13 17:00:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:01:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:02:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:03:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:04:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:05:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:06:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:07:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:08:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:09:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:10:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:11:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:12:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:13:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:14:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:15:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:16:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:17:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:18:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:19:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:20:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:21:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:22:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:23:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:24:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:25:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:26:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:27:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:28:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:29:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:30:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:31:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:32:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:33:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:34:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:35:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:36:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:37:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:38:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:39:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:40:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:41:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:42:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:43:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:44:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:45:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:46:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:47:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:48:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:49:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:50:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:51:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:52:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:53:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:54:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:55:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:56:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:57:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:58:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 17:59:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:00:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:01:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:02:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:03:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:04:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:05:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:06:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:07:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:08:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:09:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:10:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:11:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:12:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:13:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:14:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:15:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:16:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:17:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:18:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:19:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:20:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:21:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:22:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:23:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:24:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:25:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:26:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:27:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:28:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:29:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:30:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:31:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:32:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:33:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:34:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:35:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:36:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:37:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:38:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:39:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:40:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:41:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:42:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:43:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:44:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:45:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:46:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:47:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:48:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:49:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:50:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:51:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:52:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:53:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:54:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:55:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:56:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:57:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:58:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 18:59:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:00:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:01:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:02:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:03:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:04:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:05:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:06:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:07:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:08:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:09:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:10:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:11:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:12:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:13:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:14:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:15:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:16:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:17:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:18:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:19:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:20:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:21:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:22:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:23:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:24:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:25:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:26:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:27:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:28:33 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-13 19:28:38 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-13 19:28:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:28:43 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-07-13 19:28:43 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-13 19:29:02 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-07-13 19:29:02 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.20 ----------
+
+2018-07-13 19:29:02 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-07-13 19:29:02 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-07-13 19:29:03 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-13 19:29:03 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-13 19:29:03 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-13 19:29:03 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-13 19:29:03 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-13 19:29:03 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-07-13 19:29:03 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-07-13 19:29:03 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-07-13 19:29:03 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-07-13 19:30:03 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:31:03 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:31:38 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-13 19:31:38 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-13 19:32:03 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-13 19:32:05 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-13 19:32:06 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-13 19:32:06 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-13 19:32:06 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-13 19:32:06 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-13 19:32:09 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-13 19:33:03 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
