@@ -867,3 +867,4 @@ java.lang.Throwable: Stub index points to a file without PSI: com.intellij.opena
 2018-07-17 15:58:49 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
 2018-07-17 15:59:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
 2018-07-17 16:00:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:01:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
