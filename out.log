@@ -868,3 +868,292 @@ java.lang.Throwable: Stub index points to a file without PSI: com.intellij.opena
 2018-07-17 15:59:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
 2018-07-17 16:00:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
 2018-07-17 16:01:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:02:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:03:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:04:33 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:04:34 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-17 16:04:36 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-17 16:04:37 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:04:37 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:04:37 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:04:37 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:04:37 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:04:42 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:04:42 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:04:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:05:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:06:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:07:22 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:07:22 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:07:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:08:12 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:08:12 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:08:12 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:08:13 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-07-17 16:08:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:09:47 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:09:47 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-17 16:09:51 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-17 16:09:51 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:09:51 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:09:52 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:09:52 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:09:52 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:10:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:11:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:12:14 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:12:15 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:12:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:13:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:14:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:15:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:15:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:15:48 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:15:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:15:49 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-07-17 16:15:50 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:15:53 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:15:54 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-17 16:15:56 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-17 16:15:59 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:15:59 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:15:59 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:15:59 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:15:59 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:16:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:16:59 ERROR StubProcessingHelperBase.error(118) - unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@3f93c7c, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+java.lang.Throwable: unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@3f93c7c, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:123)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.handleNonPsiStubs(StubProcessingHelperBase.java:107)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.processStubsInFile(StubProcessingHelperBase.java:58)
+	at com.intellij.psi.stubs.StubIndexImpl$2.process(StubIndexImpl.java:319)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:640)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:628)
+	at com.intellij.util.indexing.ValueContainer.forEach(ValueContainer.java:61)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:348)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:299)
+	at com.siyeh.ig.JavaOverridingMethodUtil.getOverridingMethodsIfCheapEnough(JavaOverridingMethodUtil.java:61)
+	at com.siyeh.ig.inheritance.MissingOverrideAnnotationInspection$2.checkMissingOverrideInOverriders(MissingOverrideAnnotationInspection.java:166)
+	at com.siyeh.ig.inheritance.MissingOverrideAnnotationInspection$2.visitMethod(MissingOverrideAnnotationInspection.java:132)
+	at com.intellij.psi.impl.source.PsiMethodImpl.accept(PsiMethodImpl.java:290)
+	at com.intellij.codeInspection.InspectionEngine.acceptElements(InspectionEngine.java:75)
+	at com.intellij.codeInspection.InspectionEngine.createVisitorAndAcceptElements(InspectionEngine.java:63)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$collectIntentionsFromDoNotShowLeveledInspections$3(ShowIntentionsPass.java:461)
+	at com.intellij.concurrency.ApplierCompleter.execAndForkSubTasks(ApplierCompleter.java:133)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1129)
+	at com.intellij.concurrency.ApplierCompleter.lambda$wrapInReadActionAndIndicator$1(ApplierCompleter.java:105)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.concurrency.ApplierCompleter.wrapInReadActionAndIndicator(ApplierCompleter.java:116)
+	at com.intellij.concurrency.ApplierCompleter.compute(ApplierCompleter.java:99)
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.pollAndExecCC(ForkJoinPool.java:1190)
+	at java.util.concurrent.ForkJoinPool.helpComplete(ForkJoinPool.java:1879)
+	at java.util.concurrent.ForkJoinPool.awaitJoin(ForkJoinPool.java:2045)
+	at java.util.concurrent.ForkJoinTask.doJoin(ForkJoinTask.java:390)
+	at java.util.concurrent.ForkJoinTask.join(ForkJoinTask.java:719)
+	at java.util.concurrent.ForkJoinPool.invoke(ForkJoinPool.java:2616)
+	at com.intellij.concurrency.JobLauncherImpl.invokeConcurrentlyUnderProgress(JobLauncherImpl.java:65)
+	at com.intellij.concurrency.JobLauncher.invokeConcurrentlyUnderProgress(JobLauncher.java:57)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.collectIntentionsFromDoNotShowLeveledInspections(ShowIntentionsPass.java:468)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:364)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-07-17 16:16:59 ERROR StubProcessingHelperBase.logErrorHeader(126) - IntelliJ IDEA 2018.1  Build #IU-181.4203.550
+2018-07-17 16:16:59 ERROR StubProcessingHelperBase.logErrorHeader(133) - JDK: 1.8.0_152-release
+2018-07-17 16:16:59 ERROR StubProcessingHelperBase.logErrorHeader(134) - VM: OpenJDK 64-Bit Server VM
+2018-07-17 16:16:59 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
+2018-07-17 16:16:59 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
+2018-07-17 16:16:59 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: EditorPaste
+2018-07-17 16:17:24 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:17:24 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:17:24 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:17:26 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-07-17 16:17:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:17:56 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:17:56 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:17:56 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:17:58 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-07-17 16:18:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:18:48 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:18:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:18:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:18:49 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-07-17 16:18:49 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:19:08 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:19:08 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-17 16:19:10 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-17 16:19:12 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:19:12 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:19:12 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:19:12 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:19:12 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.error(118) - unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@3f93c7c, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+java.lang.Throwable: unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@3f93c7c, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:123)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.handleNonPsiStubs(StubProcessingHelperBase.java:107)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.processStubsInFile(StubProcessingHelperBase.java:58)
+	at com.intellij.psi.stubs.StubIndexImpl$2.process(StubIndexImpl.java:319)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:640)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:628)
+	at com.intellij.util.indexing.ValueContainer.forEach(ValueContainer.java:61)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:348)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:299)
+	at com.siyeh.ig.JavaOverridingMethodUtil.getOverridingMethodsIfCheapEnough(JavaOverridingMethodUtil.java:61)
+	at com.siyeh.ig.inheritance.MissingOverrideAnnotationInspection$2.checkMissingOverrideInOverriders(MissingOverrideAnnotationInspection.java:166)
+	at com.siyeh.ig.inheritance.MissingOverrideAnnotationInspection$2.visitMethod(MissingOverrideAnnotationInspection.java:132)
+	at com.intellij.psi.impl.source.PsiMethodImpl.accept(PsiMethodImpl.java:290)
+	at com.intellij.codeInspection.InspectionEngine.acceptElements(InspectionEngine.java:75)
+	at com.intellij.codeInspection.InspectionEngine.createVisitorAndAcceptElements(InspectionEngine.java:63)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$collectIntentionsFromDoNotShowLeveledInspections$3(ShowIntentionsPass.java:461)
+	at com.intellij.concurrency.ApplierCompleter.execAndForkSubTasks(ApplierCompleter.java:133)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1129)
+	at com.intellij.concurrency.ApplierCompleter.lambda$wrapInReadActionAndIndicator$1(ApplierCompleter.java:105)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.concurrency.ApplierCompleter.wrapInReadActionAndIndicator(ApplierCompleter.java:116)
+	at com.intellij.concurrency.ApplierCompleter.compute(ApplierCompleter.java:99)
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.pollAndExecCC(ForkJoinPool.java:1190)
+	at java.util.concurrent.ForkJoinPool.helpComplete(ForkJoinPool.java:1879)
+	at java.util.concurrent.ForkJoinPool.awaitJoin(ForkJoinPool.java:2045)
+	at java.util.concurrent.ForkJoinTask.doJoin(ForkJoinTask.java:390)
+	at java.util.concurrent.ForkJoinTask.join(ForkJoinTask.java:719)
+	at java.util.concurrent.ForkJoinPool.invoke(ForkJoinPool.java:2616)
+	at com.intellij.concurrency.JobLauncherImpl.invokeConcurrentlyUnderProgress(JobLauncherImpl.java:65)
+	at com.intellij.concurrency.JobLauncher.invokeConcurrentlyUnderProgress(JobLauncher.java:57)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.collectIntentionsFromDoNotShowLeveledInspections(ShowIntentionsPass.java:468)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:364)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(126) - IntelliJ IDEA 2018.1  Build #IU-181.4203.550
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(133) - JDK: 1.8.0_152-release
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(134) - VM: OpenJDK 64-Bit Server VM
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: EditorChooseLookupItem
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.error(118) - unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@3f93c7c, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+java.lang.Throwable: unable to get stub builder for com.intellij.openapi.fileTypes.PlainTextFileType@3f93c7c, , stubBindingRoot = PsiPlainTextFileImpl, languages = [TEXT], fileTypes = [PLAIN_TEXT], files = [PsiPlainTextFileImpl], roots = []
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:123)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.handleNonPsiStubs(StubProcessingHelperBase.java:107)
+	at com.intellij.psi.stubs.StubProcessingHelperBase.processStubsInFile(StubProcessingHelperBase.java:58)
+	at com.intellij.psi.stubs.StubIndexImpl$2.process(StubIndexImpl.java:319)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:640)
+	at com.intellij.psi.stubs.StubIndexImpl$StubIdListContainerAction.perform(StubIndexImpl.java:628)
+	at com.intellij.util.indexing.ValueContainer.forEach(ValueContainer.java:61)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:348)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:299)
+	at com.siyeh.ig.JavaOverridingMethodUtil.getOverridingMethodsIfCheapEnough(JavaOverridingMethodUtil.java:61)
+	at com.siyeh.ig.inheritance.MissingOverrideAnnotationInspection$2.checkMissingOverrideInOverriders(MissingOverrideAnnotationInspection.java:166)
+	at com.siyeh.ig.inheritance.MissingOverrideAnnotationInspection$2.visitMethod(MissingOverrideAnnotationInspection.java:132)
+	at com.intellij.psi.impl.source.PsiMethodImpl.accept(PsiMethodImpl.java:290)
+	at com.intellij.codeInspection.InspectionEngine.acceptElements(InspectionEngine.java:75)
+	at com.intellij.codeInspection.InspectionEngine.createVisitorAndAcceptElements(InspectionEngine.java:63)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$collectIntentionsFromDoNotShowLeveledInspections$3(ShowIntentionsPass.java:461)
+	at com.intellij.concurrency.ApplierCompleter.execAndForkSubTasks(ApplierCompleter.java:133)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1129)
+	at com.intellij.concurrency.ApplierCompleter.lambda$wrapInReadActionAndIndicator$1(ApplierCompleter.java:105)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.concurrency.ApplierCompleter.wrapInReadActionAndIndicator(ApplierCompleter.java:116)
+	at com.intellij.concurrency.ApplierCompleter.compute(ApplierCompleter.java:99)
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.pollAndExecCC(ForkJoinPool.java:1190)
+	at java.util.concurrent.ForkJoinPool.helpComplete(ForkJoinPool.java:1879)
+	at java.util.concurrent.ForkJoinPool.awaitJoin(ForkJoinPool.java:2045)
+	at java.util.concurrent.ForkJoinTask.doJoin(ForkJoinTask.java:390)
+	at java.util.concurrent.ForkJoinTask.join(ForkJoinTask.java:719)
+	at java.util.concurrent.ForkJoinPool.invoke(ForkJoinPool.java:2616)
+	at com.intellij.concurrency.JobLauncherImpl.invokeConcurrentlyUnderProgress(JobLauncherImpl.java:65)
+	at com.intellij.concurrency.JobLauncher.invokeConcurrentlyUnderProgress(JobLauncher.java:57)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.collectIntentionsFromDoNotShowLeveledInspections(ShowIntentionsPass.java:468)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:364)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(126) - IntelliJ IDEA 2018.1  Build #IU-181.4203.550
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(133) - JDK: 1.8.0_152-release
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(134) - VM: OpenJDK 64-Bit Server VM
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(135) - Vendor: JetBrains s.r.o
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(136) - OS: Windows 10
+2018-07-17 16:19:37 ERROR StubProcessingHelperBase.logErrorHeader(142) - Last Action: EditorChooseLookupItem
+2018-07-17 16:19:49 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-17 16:20:06 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:20:07 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:20:07 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:20:09 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-07-17 16:20:09 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-17 16:20:12 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:20:12 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-17 16:20:15 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-17 16:20:17 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:20:17 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:20:17 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:20:17 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:20:17 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:20:17 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-17 16:20:19 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:20:19 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:20:19 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-17 16:20:19 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-17 16:20:19 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-17 16:20:50 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
